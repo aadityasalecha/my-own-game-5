@@ -70,10 +70,10 @@ button.mousePressed(()=>{
 
 GameState=0
 
-var PlrName=input.val()
+
+input.hide()    
 button.hide()
-input.hide()
-    
+  
 })
 
 
